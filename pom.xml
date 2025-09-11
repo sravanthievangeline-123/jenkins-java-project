@@ -82,6 +82,13 @@
 
     <pluginRepositories>
         <pluginRepository>
+      <repositories>          
+  <repository>
+    <id>oracle-maven</id>
+    <url>https://maven.oracle.com</url>
+  </repository>
+</repositories>
+ 
             <id>maven1</id>
             <name>Maven.org</name>
             <url>https://repo1.maven.org/maven2</url> <!-- Updated to HTTPS -->
