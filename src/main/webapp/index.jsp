@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Amazon Page | CodingNepal</title>
+    <title>Amazon Welcome Page | CodingNepal</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>AMAZON SIGN IN V-100.0</h2>
+      <h2>AMAZON SIGN IN V-60.0</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
